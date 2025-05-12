@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Goku",
+    "ki": "60.000.000",
+    "raza": "Saiyan"
+  },
+  {
+    "nombre": "Vegeta",
+    "ki": "54.000.000",
+    "raza": "Saiyan"
+  },
+  {
+    "nombre": "Piccolo",
+    "ki": "2.000.000",
+    "raza": "Namekian"
+  }
+]
